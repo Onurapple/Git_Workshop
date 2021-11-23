@@ -1,7 +1,9 @@
 # To get year (integer input) from the user
 # This is my first explanation
 year = int(input("Enter a year in 4 digits: "))
-
+i = 0
+for i in range(5):
+    print(i)
 if (year % 4) == 0:
     if (year % 100) == 0:
         if (year % 400) == 0:
