@@ -1,6 +1,6 @@
 # To get year (integer input) from the user
 # This is my first explanation
-year = int(input("Enter a year: "))
+year = int(input("Enter a year in 4 digits: "))
 
 if (year % 4) == 0:
     if (year % 100) == 0:
