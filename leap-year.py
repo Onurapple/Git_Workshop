@@ -17,4 +17,5 @@ else:
 
 print("Year: ", year) # ekleme yapıldı
 **********KOCAMAN DEGISIKLIK********
+print("Merhaba Onur Bey")
 
